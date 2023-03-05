@@ -6,4 +6,5 @@ An application created during JavaScript exercises.
 Its function is to 
 + enlarge, 
 - reduce, 
-+ and change the text color to a random color upon clicking the corresponding buttons.
++ change the text color to a random 
+Changes are made by operating functional buttons located on the page.
