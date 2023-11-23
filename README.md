@@ -1,5 +1,7 @@
 TextChanger
 
+! ONLY DESKTOP VERSION !
+
 live: https://text-changer-pivonski.netlify.app/
 
 An application created during JavaScript exercises. 
